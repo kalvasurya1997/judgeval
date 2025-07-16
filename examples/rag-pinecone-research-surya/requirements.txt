@@ -1,0 +1,8 @@
+langchain-community
+langchain-pinecone
+pinecone-client
+openai
+judgeval
+tqdm
+python-dotenv
+pypdf
